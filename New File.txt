@@ -1,3 +1,7 @@
 Making some changes here
 
+<<<<<<< HEAD
 Making changes from the Master Branch
+=======
+Editing this file on the local machine under Branch1
+>>>>>>> Branch1
