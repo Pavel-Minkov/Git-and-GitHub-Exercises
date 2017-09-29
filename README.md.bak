@@ -4,3 +4,10 @@ Homework for Git and GitHub Exercises
 Making some other changes from the local machine
 
 Adding some changes to the ReadMe file.
+
+<<<<<<< HEAD
+Making changes when using Bash.
+=======
+
+Trying to make a conflict to test the Git Bash.
+>>>>>>> 86a8d4abae2fa5f225422391b44561e1b7789287

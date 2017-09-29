@@ -6,3 +6,5 @@ Making some other changes from the local machine
 Adding some changes to the ReadMe file.
 
 Making changes when using Bash.
+
+Trying to make a conflict to test the Git Bash.
